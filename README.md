@@ -9,5 +9,3 @@ Except as otherwise indicated, this work is licensed under a [Creative Commons L
 * Information and/or code may not be reused for any other purposes (including commercial purposes) without the express permission of the site owner.
 
 [Click here](http://creativecommons.org/licenses/by-nc-nd/4.0/ "License information") for the full terms and conditions of this license.
-
-All source code contained in this project is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php "MIT license"). This license allows you to modify and/or redistribute the code and use it for either personal or commercial purposes, provided that copyright notices are preserved.
